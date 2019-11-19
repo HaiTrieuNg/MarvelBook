@@ -1,0 +1,120 @@
+1
+Tony
+Stark
+ironman	
+stark
+New York
+2,4,15
+Technology,Money,Fighting Evil
+2
+Steve
+Rogers
+cap
+bucky
+New York
+1,15
+Working out,Old movies,Fighting Evil
+3
+Peter
+Parker
+Spider 
+imspiddy
+Brooklyn
+4,15
+Studies,Physics, Fighting Evil
+4
+Thor 
+Odinson
+thunder
+asgard
+Asgard
+3,1
+Fighting Evil,Food,Hammer
+5
+Bruce
+Banner
+Bruce
+greenman
+Dayton
+6,11
+Biology,Fighting Evil
+6
+Thomas
+Logan
+wolverine
+metal
+Alberta
+5,14
+Street fighting,Fighting Evil
+7
+Scott
+Lang
+antman
+imsmall
+New York
+8
+Fighting Evil,Stealing
+8
+Natasha
+Romanova
+Black Widow
+widow
+Stalingrad
+7,12
+Fighting,Fashion Design,Combat
+9
+Thanos
+N/A
+madtitan
+evilguy
+Titan
+10
+Killing
+10
+Loki
+Laufeyson
+Lokiki
+IloveThor
+Asgard
+9
+Tricks,Pranks
+11
+Clark
+Kent
+superman
+imstrong
+Krypton
+12,5
+Photography, Fighting Evil
+12
+Bruce
+Wayne
+batman
+imrich
+Gotham
+11,13,8
+Technology,Money,Fighting Evil
+13
+Diana
+Prince
+diana
+wonderwoman
+Amazon island of Themyscira
+14,12 
+Fighting Evil
+14
+Barry
+Allen
+Flash
+imfast
+Gotham
+13,6
+Technology,Fighting Evil
+15
+Bucky
+Barnes
+wintersoldier
+saveTheworld
+Shelyville
+3,1,15
+Working Out,Old movies
